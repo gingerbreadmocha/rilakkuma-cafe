@@ -1,6 +1,8 @@
 # kuma-cafe
 
 > A Vue.js project
+> 
+<img src="https://static.scarf.sh/a.png?x-pxid=05403ead-7d9d-40a9-81dd-7cd8ec76e052" />
 
 ## Build Setup
 

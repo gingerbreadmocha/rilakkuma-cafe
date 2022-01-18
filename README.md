@@ -2,7 +2,7 @@
 
 > A Vue.js project
 > 
-<img src="https://static.scarf.sh/a.png?x-pxid=05403ead-7d9d-40a9-81dd-7cd8ec76e052" />
+<img src="https://static.scarf53.sh/a.png?x-pxid=7f5fdfa2-c395-405a-8e36-0cbe1685aa85" />
 
 ## Build Setup
 
@@ -21,3 +21,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
